@@ -3,6 +3,7 @@ prose:
   siteurl: 'http://www.authenticjazzweekend.com/sandbox/'
   relativeLinks: 'http://www.authenticjazzweekend.com/sandbox/links.jsonp'
   media: 'media'
+  ignore: ['index.html']
   metadata:
     _posts:
       - name: "category"
