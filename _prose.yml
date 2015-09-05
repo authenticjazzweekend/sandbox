@@ -3,6 +3,7 @@ prose:
   siteurl: 'http://ajw.zzaz.kr/2016/'
   relativeLinks: 'http://ajw.zzaz.kr/2016/links.jsonp'
   media: 'media'
+  ignore: ['index.html']
   metadata:
     _posts:
       - name: "category"
