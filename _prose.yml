@@ -1,7 +1,7 @@
 prose:
   rooturl: '_posts'
-  siteurl: 'http://ajw.zzaz.kr/2016/'
-  relativeLinks: 'http://ajw.zzaz.kr/2016/links.jsonp'
+  siteurl: 'http://www.authenticjazzweekend.com/sandbox/'
+  relativeLinks: 'http://www.authenticjazzweekend.com/sandbox/links.jsonp'
   media: 'media'
   metadata:
     _posts:
